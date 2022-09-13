@@ -26,6 +26,8 @@ Computer Systems Engineer Undergraduate student at Arab American University - Pa
 
 <p align="left"> <a href="https://www.linkedin.com/in/ahmedalighannam/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15949992/a7mt-3li" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
+
+### Experiences
 <br>
 
 - <strong>problem-solving websites  </strong> <br>
@@ -46,10 +48,10 @@ Computer Systems Engineer Undergraduate student at Arab American University - Pa
 7. PraiseApp (Kotlin): https://github.com/ahmdghannam/PraiseApp <br>
 
 <br>
-  -  <strong>Other projects : </strong><br>
-3.   database for school  SQL , ER and schema : 
-https://github.com/ahmdghannam/database-of-school
-4.  median sort: https://github.com/ahmdghannam/medianSort 
+  -   <strong>Other projects : </strong><br>
+1.   database for school  SQL , ER and schema : 
+https://github.com/ahmdghannam/database-of-school <br>
+2.  median sort: https://github.com/ahmdghannam/medianSort 
 
   <br>
 
