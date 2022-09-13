@@ -10,8 +10,8 @@ Computer Systems Engineer Undergraduate student at Arab American University - Pa
 * ✉️  You can contact me at [ahmdghannam@outlook.com](mailto:ahmdghannam@outlook.com)
 
 
-###skills
- ⚡  skills : java, kotlin, git, and github, xml, firbase, sqlite, room, database, kotlin, courotines, Android Jetpack, MVVM, sql, oracle, database my sql, dagger hilt, retrofit.
+### skills
+ java, kotlin, git, and github, xml, firbase, sqlite, room, database, kotlin, courotines, Android Jetpack, MVVM, sql, oracle, database my sql, dagger hilt, retrofit.
 
 
 
