@@ -24,9 +24,8 @@ Computer Systems Engineer Undergraduate student at Arab American University - Pa
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/ahmedalighannam/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15949992/a7mt-3li" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/ahmedalighannam/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15949992/a7mt-3li" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p> <br>
 
- <br>
 ### Experiences  <br>
 
 - <strong>problem-solving websites  </strong> <br>
