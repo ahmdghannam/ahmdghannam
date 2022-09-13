@@ -28,15 +28,15 @@ Computer Systems Engineer Undergraduate student at Arab American University - Pa
 
 <br>
 
--<strong>problem-solving websites  </strong> <br><br>
+- <strong>problem-solving websites  </strong> <br>
 1. leetCode: https://leetcode.com/iia7mt/
 2. Codeforces: https://codeforces.com/profile/i.a7mt
 
 
 <br>
 
--<strong> Android projects : </strong>
-<br><br>
+- <strong> Android projects : </strong>
+<br>
 1. Diaries app (Kotlin) : https://github.com/ahmdghannam/DiariesApp
 2. The Thirty Challenge Game (Kotlin) : https://github.com/ahmdghannam/TheThirtyChallenge
 2. School management app (Kotlin) :  https://github.com/ahmdghannam/School_managment_app
@@ -47,7 +47,7 @@ Computer Systems Engineer Undergraduate student at Arab American University - Pa
 1. PraiseApp (Kotlin): https://github.com/ahmdghannam/PraiseApp
 
 <br>
-  - <strong>Other projects : </strong><br><br>
+  -  <strong>Other projects : </strong><br>
 3.   database for school  SQL , ER and schema : 
 https://github.com/ahmdghannam/database-of-school
 4.  median sort: https://github.com/ahmdghannam/medianSort 
