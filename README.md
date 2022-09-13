@@ -36,7 +36,6 @@ Computer Systems Engineer Undergraduate student at Arab American University - Pa
 <br>
 
 - <strong> Android projects : </strong>
-<br>
 1. Diaries app (Kotlin) : https://github.com/ahmdghannam/DiariesApp <br>
 2. The Thirty Challenge Game (Kotlin) : https://github.com/ahmdghannam/TheThirtyChallenge <br>
 2. School management app (Kotlin) :  https://github.com/ahmdghannam/School_managment_app <br>
