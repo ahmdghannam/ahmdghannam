@@ -9,45 +9,6 @@ Computer Systems Engineer Undergraduate student at Arab American University - Pa
 * 🌍  I'm based in Jaba' - Jenin
 * ✉️  You can contact me at [ahmdghannam@outlook.com](mailto:ahmdghannam@outlook.com)
 
-
-
-<br>
-
--
- <strong>problem-solving websites  </strong> <br><br>
- 
-1. leetCode: https://leetcode.com/iia7mt/
-2. Codeforces: https://codeforces.com/profile/i.a7mt
-
-
-<br>
-
--
- <strong> Android projects : </strong>
-<br><br>
-
-1. Diaries app (Kotlin) : https://github.com/ahmdghannam/DiariesApp
-2. The Thirty Challenge Game (Kotlin) : https://github.com/ahmdghannam/TheThirtyChallenge
-2. School management app (Kotlin) :  https://github.com/ahmdghannam/School_managment_app
-3. GPA calculator (Kotlin) : https://github.com/ahmdghannam/GpaCalculator.git
-4.  equations solver (Java): https://github.com/ahmdghannam/equations-solver 
-5.   tic tac toe game (Java): https://github.com/ahmdghannam/tictactoe 
- 6. passwords generator (Kotlin) :https://github.com/ahmdghannam/PasswordsGeneratorAndroidApp
-1. PraiseApp (Kotlin): https://github.com/ahmdghannam/PraiseApp
-
-<br>
-
-  - <strong>Other projects : </strong><br><br>
-3.   database for school  SQL , ER and schema : 
-https://github.com/ahmdghannam/database-of-school
-4.  median sort: https://github.com/ahmdghannam/medianSort 
-
-  <br>
-
-  -  <strong>languages: </strong>
-  Native Arabic and Fluent English <br><br>
-
-
 ### skills
  java, kotlin, git, and github, xml, firbase, sqlite, room, database, kotlin, courotines, Android Jetpack, MVVM, sql, oracle, database my sql, dagger hilt, retrofit.
 
@@ -64,3 +25,37 @@ https://github.com/ahmdghannam/database-of-school
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/ahmedalighannam/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15949992/a7mt-3li" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
+<br>
+
+-<strong>problem-solving websites  </strong> <br><br>
+1. leetCode: https://leetcode.com/iia7mt/
+2. Codeforces: https://codeforces.com/profile/i.a7mt
+
+
+<br>
+
+-<strong> Android projects : </strong>
+<br><br>
+1. Diaries app (Kotlin) : https://github.com/ahmdghannam/DiariesApp
+2. The Thirty Challenge Game (Kotlin) : https://github.com/ahmdghannam/TheThirtyChallenge
+2. School management app (Kotlin) :  https://github.com/ahmdghannam/School_managment_app
+3. GPA calculator (Kotlin) : https://github.com/ahmdghannam/GpaCalculator.git
+4.  equations solver (Java): https://github.com/ahmdghannam/equations-solver 
+5.   tic tac toe game (Java): https://github.com/ahmdghannam/tictactoe 
+ 6. passwords generator (Kotlin) :https://github.com/ahmdghannam/PasswordsGeneratorAndroidApp
+1. PraiseApp (Kotlin): https://github.com/ahmdghannam/PraiseApp
+
+<br>
+  - <strong>Other projects : </strong><br><br>
+3.   database for school  SQL , ER and schema : 
+https://github.com/ahmdghannam/database-of-school
+4.  median sort: https://github.com/ahmdghannam/medianSort 
+
+  <br>
+
+  -  <strong>languages: </strong>
+  Native Arabic and Fluent English <br><br>
+
+
+
