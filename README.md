@@ -37,14 +37,14 @@ Computer Systems Engineer Undergraduate student at Arab American University - Pa
 
 - <strong> Android projects : </strong>
 <br>
-1. Diaries app (Kotlin) : https://github.com/ahmdghannam/DiariesApp
-2. The Thirty Challenge Game (Kotlin) : https://github.com/ahmdghannam/TheThirtyChallenge
-2. School management app (Kotlin) :  https://github.com/ahmdghannam/School_managment_app
-3. GPA calculator (Kotlin) : https://github.com/ahmdghannam/GpaCalculator.git
-4.  equations solver (Java): https://github.com/ahmdghannam/equations-solver 
-5.   tic tac toe game (Java): https://github.com/ahmdghannam/tictactoe 
- 6. passwords generator (Kotlin) :https://github.com/ahmdghannam/PasswordsGeneratorAndroidApp
-1. PraiseApp (Kotlin): https://github.com/ahmdghannam/PraiseApp
+1. Diaries app (Kotlin) : https://github.com/ahmdghannam/DiariesApp <br>
+2. The Thirty Challenge Game (Kotlin) : https://github.com/ahmdghannam/TheThirtyChallenge <br>
+2. School management app (Kotlin) :  https://github.com/ahmdghannam/School_managment_app <br>
+3. GPA calculator (Kotlin) : https://github.com/ahmdghannam/GpaCalculator.git <br>
+4.  equations solver (Java): https://github.com/ahmdghannam/equations-solver  <br>
+5.   tic tac toe game (Java): https://github.com/ahmdghannam/tictactoe  <br>
+6. passwords generator (Kotlin) :https://github.com/ahmdghannam/PasswordsGeneratorAndroidApp <br>
+7. PraiseApp (Kotlin): https://github.com/ahmdghannam/PraiseApp <br>
 
 <br>
   -  <strong>Other projects : </strong><br>
