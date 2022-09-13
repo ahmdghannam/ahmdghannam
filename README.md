@@ -8,9 +8,12 @@ Computer Systems Engineer Undergraduate student at Arab American University - Pa
 
 * 🌍  I'm based in Jaba' - Jenin
 * ✉️  You can contact me at [ahmdghannam@outlook.com](mailto:ahmdghannam@outlook.com)
-* ⚡  skills : java, kotlin, git, and github, xml, firbase, sqlite, room, database, kotlin, courotines, Android Jetpack, MVVM, sql, oracle, database my sql, dagger hilt, retrofit.
 
-### Skills
+
+###skills
+ ⚡  skills : java, kotlin, git, and github, xml, firbase, sqlite, room, database, kotlin, courotines, Android Jetpack, MVVM, sql, oracle, database my sql, dagger hilt, retrofit.
+
+
 
 <p align="left">
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
