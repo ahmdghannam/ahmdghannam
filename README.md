@@ -18,7 +18,6 @@ Computer Systems Engineer Undergraduate student at Arab American University - Pa
       <li>Kotlin</li>
       <li>Dart</li>
     </ul>
-
     <h3>Android Skills:</h3>
     <ul>
       <li>SQLite</li>
