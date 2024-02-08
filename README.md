@@ -10,42 +10,45 @@ Computer Systems Engineer Undergraduate student at Arab American University - Pa
 * ✉️  You can contact me at [ahmdghannam@outlook.com](mailto:ahmdghannam@outlook.com)
 
 ### skills
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="padding-right: 20px; vertical-align: top;">
-      <h3>Programming languages:</h3>
-      <ul>
-        <li>Java</li>
-        <li>Kotlin</li>
-        <li>Dart</li>
-      </ul>
-      <h3>Android Skills:</h3>
-      <ul>
-        <li>SQLite</li>
-        <li>Room database</li>
-        <li>RxJava</li>
-        <li>Kotlin Coroutines</li>
-        <li>Android Jetpack</li>
-        <li>MVVM</li>
-        <li>Data Binding</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top;">
-     <h3>Database:</h3>
-      <ul>
-        <li>SQL</li>
-        <li>Basic knowledge of Oracle database</li>
-      </ul>
-      <h3>Other Skills:</h3>
-      <ul>
-        <li>Flutter</li>
-        <li>Figma &amp; UI/UX</li>
-        <li>Version control: Git and GitHub</li>
-        <li>Linux</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; margin-right: 20px;">
+    <h3>Programming languages:</h3>
+    <ul>
+      <li>Java</li>
+      <li>Kotlin</li>
+      <li>Dart</li>
+    </ul>
+
+    <h3>Android Skills:</h3>
+    <ul>
+      <li>SQLite</li>
+      <li>Room database</li>
+      <li>RxJava</li>
+      <li>Kotlin Coroutines</li>
+      <li>Android Jetpack</li>
+      <li>MVVM</li>
+      <li>Data Binding</li>
+    </ul>
+
+  
+  </div>
+
+  <div style="flex: 1;">
+    <h3>Database:</h3>
+    <ul>
+      <li>SQL</li>
+      <li>Basic knowledge of Oracle database</li>
+    </ul>
+    <h3>Other Skills:</h3>
+    <ul>
+      <li>Flutter</li>
+      <li>Figma &amp; UI/UX</li>
+      <li>Version control: Git and GitHub</li>
+      <li>Linux</li>
+    </ul>
+  </div>
+</div>
+
 
 
 
