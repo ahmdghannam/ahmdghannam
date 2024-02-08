@@ -10,13 +10,40 @@ Computer Systems Engineer Undergraduate student at Arab American University - Pa
 * ✉️  You can contact me at [ahmdghannam@outlook.com](mailto:ahmdghannam@outlook.com)
 
 ### skills
-Programming languages: Java, Kotlin, Dart.
-Android Skills: SQLite, Room database, Rx java, kotlin coroutines, Android Jetpack, MVVM, data binding, dagger-hilt, jetpack compose, retrofit.
-Flutter
-Figma & UI UX
-Database: SQL, basic knowledge of Oracle database..
-Version control: git and GitHub
-Linux 
+<ul>
+  <li>Programming languages:
+    <ul>
+      <li>Java</li>
+      <li>Kotlin</li>
+      <li>Dart</li>
+    </ul>
+  </li>
+  <li>Android Skills:
+    <ul>
+      <li>SQLite</li>
+      <li>Room database</li>
+      <li>RxJava</li>
+      <li>Kotlin Coroutines</li>
+      <li>Android Jetpack</li>
+      <li>MVVM</li>
+      <li>Data Binding</li>
+      <li>Dagger-Hilt</li>
+      <li>Jetpack Compose</li>
+      <li>Retrofit</li>
+    </ul>
+  </li>
+  <li>Flutter</li>
+  <li>Figma &amp; UI/UX</li>
+  <li>Database:
+    <ul>
+      <li>SQL</li>
+      <li>Basic knowledge of Oracle database</li>
+    </ul>
+  </li>
+  <li>Version control: Git and GitHub</li>
+  <li>Linux</li>
+</ul>
+
 
 
 
