@@ -1,6 +1,7 @@
 # ❤️ About Me:
 Computer Systems Engineer Undergraduate student at Arab American University - Palestine 2019-2024 GPA: 3.0/4.0<br> the department's nerd, computer lover, a fan of java and the person that you need to write efficient code. <br>course results worth mentioning: Database "A", SQL "A-", java "B+" and Operating Systems "A-".<br><br>🌍  I'm based in Jenin - Palestine<br>✉️  You can contact me at ahmdghannam@outlook.com
 
+[![](https://visitcount.itsvg.in/api?id=ahmdghannam&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmdghannam) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15949992) 
@@ -41,7 +42,11 @@ https://github.com/ahmdghannam/database-of-school <br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ahmdghannam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+
 ---
-[![](https://visitcount.itsvg.in/api?id=ahmdghannam&icon=0&color=8)](https://visitcount.itsvg.in)
+Thank You
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
