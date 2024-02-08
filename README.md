@@ -18,7 +18,6 @@ Computer Systems Engineer Undergraduate student at Arab American University - Pa
       <li>Kotlin</li>
       <li>Dart</li>
     </ul>
-
     <h3>Android Skills:</h3>
     <ul>
       <li>SQLite</li>
@@ -29,10 +28,7 @@ Computer Systems Engineer Undergraduate student at Arab American University - Pa
       <li>MVVM</li>
       <li>Data Binding</li>
     </ul>
-
-  
   </div>
-
   <div style="flex: 1;">
     <h3>Database:</h3>
     <ul>
