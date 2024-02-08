@@ -1,4 +1,5 @@
-# ❤️ About Me:
+# Ahmed Ghannam
+
 Computer Systems Engineer Undergraduate student at Arab American University - Palestine 2019-2024 GPA: 3.0/4.0<br> the department's nerd, computer lover, a fan of java and the person that you need to write efficient code. <br>course results worth mentioning: Database "A", SQL "A-", java "B+" and Operating Systems "A-".<br><br>🌍  I'm based in Jenin - Palestine<br>✉️  You can contact me at ahmdghannam@outlook.com
 
 [![](https://visitcount.itsvg.in/api?id=ahmdghannam&icon=0&color=8)](https://visitcount.itsvg.in)
