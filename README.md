@@ -1,6 +1,6 @@
 # Ahmed Ghannam
 
-I am a Computer Systems Engineering graduate from Arab American University - Palestine, with an enrollment spanning from 2019 to 2024.<br> I maintain a GPA of 3.0/4.0 and am recognized as the department's enthusiast, deeply passionate about computers.<br> I am particularly fond of Java and take pride in my ability to craft efficient code.<br> Noteworthy course achievements include an "A" in Database, "A-" in SQL, "B+" in Java, and an "A-" in Operating Systems.
+I am a Computer Systems Engineering graduate from Arab American University - Palestine, with an enrollment spanning from 2019 to 2024.<br> deeply passionate about computers.<br> I am particularly fond of Java and take pride in my ability to craft efficient code.<br> Noteworthy course achievements include an "A" in Database, "A-" in SQL, "B+" in Java, and an "A-" in Operating Systems.
 <br><br>🌍  I'm based in Jenin - Palestine<br>✉️  You can contact me at ahmdghannam@outlook.com
 
 [![](https://visitcount.itsvg.in/api?id=ahmdghannam&icon=0&color=8)](https://visitcount.itsvg.in)
