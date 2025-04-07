@@ -1,54 +1,87 @@
-# Ahmed Ghannam
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmdghannam&label=Profile%20views&color=0e75b6&style=flat" alt="ahmdghannam" /> </p>
+<h1 align="center">Hi 👋, I'm Ahmed Ghannam</h1>
+<h3 align="center"> A passionate Software Engineer with a strong focus on Android development and front-end web technologies. I hold a degree in Computer Systems Engineering from Arab American University, and I love building scalable, user-friendly applications using Kotlin, Jetpack Compose, React, and TypeScript. My experience spans across internships and real-world projects, including CMS systems, social media platforms, web-based react apps. I'm an active learner, open-source enthusiast, and problem-solver who enjoys participating in coding competitions like ACM and IEEExtreme. Whether it's building intuitive mobile apps or crafting responsive web interfaces, I’m always up for a challenge!</h3>
 
-I am a Computer Systems Engineering graduate from Arab American University - Palestine, with an enrollment spanning from 2019 to 2024.<br> deeply passionate about computers.<br> I am particularly fond of Java and take pride in my ability to craft efficient code.<br> Noteworthy course achievements include an "A" in Database, "A-" in SQL, "B+" in Java, and an "A-" in Operating Systems.
-<br><br>🌍  I'm based in Jenin - Palestine<br>✉️  You can contact me at ahmdghannam@outlook.com
+- 🌱 I’m currently learning **Front-end**
 
-[![](https://visitcount.itsvg.in/api?id=ahmdghannam&icon=0&color=8)](https://visitcount.itsvg.in)
+- 💬 Ask me about **Android, Kotlin, React, Flutter**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmdghannam) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15949992) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-
-# Projects  <br>
-
-- <strong> Android projects : </strong>
-1. Diaries app (Kotlin) : https://github.com/ahmdghannam/DiariesApp <br> 
-2. The Thirty Challenge Game (Kotlin) : https://github.com/ahmdghannam/TheThirtyChallenge <br>
-2. School management app (Kotlin) :  https://github.com/ahmdghannam/School_managment_app <br>
-3. GPA calculator (Kotlin) : https://github.com/ahmdghannam/GpaCalculator.git <br>
-4.  equations solver (Java): https://github.com/ahmdghannam/equations-solver  <br>
-5.   tic tac toe game (Java): https://github.com/ahmdghannam/tictactoe  <br>
-6. passwords generator (Kotlin) :https://github.com/ahmdghannam/PasswordsGeneratorAndroidApp <br>
-7. PraiseApp (Kotlin): https://github.com/ahmdghannam/PraiseApp <br> <br>
-
-- <strong>Other projects : </strong>
-1.   database for school  SQL , ER and schema : 
-https://github.com/ahmdghannam/database-of-school <br>
-2.  median sort: https://github.com/ahmdghannam/medianSort 
-
-  <br>
+- 📫 How to reach me **ahmdghannam@outlook.com**
   
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmdghannam&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmdghannam&theme=gruvbox&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdghannam&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
+- 🗣️ Languages: Native Arabic and professional English
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmdghannam&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1q-XSCAdKbeLCqtelRetWhBJJz308ayO11HpEkcEbx0I/edit?usp=sharing)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- ⚡ Fun fact **Can asp.net programmers see sharp ?**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmdghannam&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  
+  
+  ## 👨‍💻 About Me
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+- 🎓 Graduated with a degree in Computer Systems Engineering from **Arab American University**
+- 📱 Experienced in building Android apps using **Kotlin**, **Jetpack Compose**, **MVVM**, and **Clean Architecture**
+- 🌐 Skilled in front-end development using **React**, **Redux**, **React Query**, and **TypeScript**
+- 🛠️ Worked on real-world projects, including:
+  - A full-featured social media app
+  - A CMS for managing Android TV ad campaigns
+  - Buildx React based web pages creator app
+  - Personal projects using machine learning and app development
+- ⚡ Active in coding competitions: **ACM**, **IEEExtreme**, and platforms like **Codeforces** and **LeetCode**
+<br>
 
+## 🎓 Education
 
----
-Thank You
+### 🎓 B.Sc. in Computer Systems Engineering  
+**Arab American University – Palestine** _(Oct 2019 – Jul 2024)_  
+- ABET-Accredited Program  
+- GPA: **3.0 / 4.0**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🏫 High School – Scientific Major  
+**Tawjihi Certificate** _(Sep 2018 – Jul 2019)_  
+- Final Grade: **85%**
+<br>
+
+## 🧑‍💼 Experience
+
+### 📱 Android & React Developer – Z Technologies _(May 2024 – Present)_
+- Maintained and enhanced **Madlipz**, a social media app, focusing on video/audio playback and editing using **FFmpeg** and custom Android views.
+- Built a **Content Management System (CMS)** for **Ruwido Android TV**, enabling businesses to schedule and track ad campaigns on custom Android set-top boxes and LCD-equipped remotes.
+- Contributed to **Buildx**, a React-based no-code tool for designing front-end applications with drag-and-drop UI using **React DnD**, **Redux**, and modern React libraries.
+
+### 🌐 Web Developer Intern – ITG _(Feb 2024 – Apr 2024)_
+- Developed responsive web applications using **HTML**, **CSS**, and **JavaScript**, gaining hands-on experience in real-world front-end development.
+
+### 🤖 Android Developer Intern – The Chance _(Feb 2023 – Jul 2023)_
+- Practiced clean architecture and design patterns, wrote clean and maintainable code, and worked extensively with **Jetpack Compose** and **declarative UI**.
+- Used **Git/GitHub**, conducted **unit testing (JUnit)**, and tested APIs using **Postman**.
+- Applied **SOLID principles**, collaborated in teams, and designed interfaces with **Figma**.
+
+### 📲 Android Developer Intern – Foothill _(Jul 2022 – Oct 2022)_
+- Developed Android apps using **MVVM**, **Dagger-Hilt**, **ROOM database**, and **Navigation Component**.
+- Built multi-threaded features with **Kotlin Coroutines** and integrated REST APIs effectively.
+<br>
+
+## ⚒️ Projects Contributions 
+- Graduation Project : Students Helper, chat bot and schedule generator [link](https://github.com/ahmdghannam/senior_project) 
+- Android projects:  TMDB movies app: [link](https://github.com/team-chocolate-cake/MovieApp), TODO app: [link](https://github.com/team-chocolate-cake/My-Team-TODO) 
+- Other projects: Mobile prices classification by Machine Learning with python: [link](https://github.com/M7mdNassar/Mobile-Price-Classification), Database for school “SQL, ER, and schema” : [link](https://github.com/ahmdghannam/database-of-school)
+<br>
+
+## 💡 Technologies & Tools
+
+- **Languages**: Kotlin, Java, Dart, JavaScript, TypeScript, Python
+- **Mobile**: Android (Jetpack, Compose, Hilt, Room, Coroutines), Flutter
+- **Web**: React, Redux, React Query, React DnD, MUI
+- **Database**: SQL, PL/SQL, Oracle APEX
+- **Tools**: Git, GitHub, GitLab, Postman, Figma, Linux
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ahmdghannam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmdghannam" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15949992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15949992" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/i.a7mt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="i.a7mt" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/iia7mt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iia7mt" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
