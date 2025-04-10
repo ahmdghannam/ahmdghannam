@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ghannam</h1>
 <h3 align="center"> A passionate Software Engineer with a strong focus on Android development and front-end web technologies. I hold a degree in Computer Systems Engineering from Arab American University, and I love building scalable, user-friendly applications using Kotlin, Jetpack Compose, React, and TypeScript. My experience spans across internships and real-world projects, including CMS systems, social media platforms, web-based react apps. I'm an active learner, open-source enthusiast, and problem-solver who enjoys participating in coding competitions like ACM and IEEExtreme. Whether it's building intuitive mobile apps or crafting responsive web interfaces, I’m always up for a challenge!</h3>
 
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1q-XSCAdKbeLCqtelRetWhBJJz308ayO11HpEkcEbx0I/edit?usp=sharing)
+
+- 📫 How to reach me **ahmdghannam@outlook.com**
+
 - 🌱 I’m currently learning **Front-end**
 
 - 💬 Ask me about **Android, Kotlin, React, Flutter**
 
-- 📫 How to reach me **ahmdghannam@outlook.com**
-  
 - 🗣️ Languages: Native Arabic and professional English
-
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1q-XSCAdKbeLCqtelRetWhBJJz308ayO11HpEkcEbx0I/edit?usp=sharing)
 
 - ⚡ Fun fact **Can asp.net programmers see sharp ?**
 
